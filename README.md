@@ -29,10 +29,10 @@ https://drive.google.com/file/d/1VPV0OFFTOTIwppVHI3ZNjK3ap2HeHfrI/view?usp=shari
 |Exámen-Módulo|Resultado|
 |--|--|
 |Exámen 1|<img src="https://drive.google.com/uc?export=view&id=1Y7NPR9VSMB06dbBvVJl82Kml33gs2jkJ" width="700"/>|
-|Exámen 2|<img src="" width="300"/>|
-|Exámen 3|<img src="" width="300"/>|
-|Exámen 4|<img src="" width="300"/>|
-|Exámen Final|<img src="" width="300"/>|
+|Exámen 2|<img src="https://drive.google.com/uc?export=view&id=1WKVDoMM_RwjczFFWbN8dVrvpvWpL6LFO" width="700"/>|
+|Exámen 3|<img src="https://drive.google.com/uc?export=view&id=1Ppx78H1sh2Q6c_lEYDyNqKOsst2PO9a4" width="700"/>|
+|Exámen 4|<img src="https://drive.google.com/uc?export=view&id=12vZov0-tPwc6WsxdRx9n3d88v_EylmvQ" width="700"/>|
+|Exámen Final|<img src="https://drive.google.com/uc?export=view&id=17iLlcwf2aGfIEEJ7WyRuX-Iy8GcI3NSr" width="700"/>|
 
 ### Josué Alejandro Esparza Padilla: <br>
 Examen 1: <br>
