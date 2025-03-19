@@ -28,7 +28,7 @@ https://drive.google.com/file/d/1VPV0OFFTOTIwppVHI3ZNjK3ap2HeHfrI/view?usp=shari
 ### Gilberto Fabián Correa González<br>
 |Exámen-Módulo|Resultado|
 |--|--|
-|Exámen 1|<img src="https://drive.google.com/uc?export=view&id=1Y7NPR9VSMB06dbBvVJl82Kml33gs2jkJ" width="300"/>|
+|Exámen 1|<img src="https://drive.google.com/uc?export=view&id=1Y7NPR9VSMB06dbBvVJl82Kml33gs2jkJ" width="500"/>|
 |Exámen 2|<img src="" width="300"/>|
 |Exámen 3|<img src="" width="300"/>|
 |Exámen 4|<img src="" width="300"/>|
