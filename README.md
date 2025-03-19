@@ -1,5 +1,9 @@
 # InstrumentoU2-AppsIoT2025
 ## Videos de Sensores/Actuadores<br>
+|Sensor/Actuador|Diagrama|Video|
+|--|--|--|
+|KY-001|--|--|
+
 
 Josué Alejandro Esparza Padilla: <br>
 Examen 1: <br>
