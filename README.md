@@ -1,5 +1,6 @@
 # InstrumentoU2-AppsIoT2025
 
+Jousé Alejandro Esparza Padilla: <br>
 Examen 1: <br>
 <img src="https://drive.google.com/uc?export=view&id=15qbL6FV-G6pOANX4zuQRR4LtYQUmFs7F" width="700"/><br><br>
 Examen 2: <br>
