@@ -1,5 +1,5 @@
 # InstrumentoU2-AppsIoT2025
-## 1.- Videos de Sensores/Actuadores<br>
+## 1. Videos de Sensores/Actuadores<br>
 |Sensor/Actuador|Diagrama|Video|
 |--|--|--|
 |KY-001|<img src="https://drive.google.com/uc?export=view&id=108_9SKL_wNv1eT2xFuTCinYa4ud7_cZT" width="300"/>|<a href="https://drive.google.com/file/d/1NLZPt4yu2H6zuZH8q1SyIFFUFYVTodgC/view?usp=sharing">KY-001</a>|
