@@ -25,7 +25,7 @@ https://drive.google.com/file/d/1VPV0OFFTOTIwppVHI3ZNjK3ap2HeHfrI/view?usp=shari
 
 
 ## 4. NetAcad<br>
-### Gilberto Fabián Correa González<br>
+### Gilberto Fabián Correa González:<br>
 |Exámen-Módulo|Resultado|
 |--|--|
 |Exámen 1|<img src="https://drive.google.com/uc?export=view&id=1Y7NPR9VSMB06dbBvVJl82Kml33gs2jkJ" width="700"/>|
