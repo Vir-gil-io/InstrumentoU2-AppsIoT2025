@@ -2,7 +2,7 @@
 ## Videos de Sensores/Actuadores<br>
 |Sensor/Actuador|Diagrama|Video|
 |--|--|--|
-|KY-001|<img src="https://drive.google.com/uc?export=view&id=108_9SKL_wNv1eT2xFuTCinYa4ud7_cZT" width="300" height="300"/>|--|
+|KY-001|<img src="https://drive.google.com/uc?export=view&id=108_9SKL_wNv1eT2xFuTCinYa4ud7_cZT" width="300"/>|--|
 
 
 Josué Alejandro Esparza Padilla: <br>
