@@ -2,7 +2,24 @@
 ## Videos de Sensores/Actuadores<br>
 |Sensor/Actuador|Diagrama|Video|
 |--|--|--|
-|KY-001|<img src="https://drive.google.com/uc?export=view&id=108_9SKL_wNv1eT2xFuTCinYa4ud7_cZT" width="300"/>|--|
+|KY-001|<img src="https://drive.google.com/uc?export=view&id=108_9SKL_wNv1eT2xFuTCinYa4ud7_cZT" width="300"/>|https://drive.google.com/file/d/1NLZPt4yu2H6zuZH8q1SyIFFUFYVTodgC/view?usp=sharing|
+|--|<img src="" width="300"/>|--|
+|--|<img src="" width="300"/>|--|
+|--|<img src="" width="300"/>|--|
+|--|<img src="" width="300"/>|--|
+|--|<img src="" width="300"/>|--|
+|--|<img src="" width="300"/>|--|
+|--|<img src="" width="300"/>|--|
+|--|<img src="" width="300"/>|--|
+|--|<img src="" width="300"/>|--|
+|--|<img src="" width="300"/>|--|
+|--|<img src="" width="300"/>|--|
+|--|<img src="" width="300"/>|--|
+|--|<img src="" width="300"/>|--|
+|--|<img src="" width="300"/>|--|
+|--|<img src="" width="300"/>|--|
+|--|<img src="" width="300"/>|--|
+|--|<img src="" width="300"/>|--|
 
 
 Josué Alejandro Esparza Padilla: <br>
