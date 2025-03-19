@@ -14,4 +14,10 @@ Examen Final: <br>
 
 Diagramas: <br>
 Carpeta en Drive: <br>
-https://drive.google.com/drive/folders/193T6gCY1-Yp95pCcCdtSonkZCH6EFS8C?usp=sharing
+https://drive.google.com/drive/folders/193T6gCY1-Yp95pCcCdtSonkZCH6EFS8C?usp=sharing  <br>
+
+Josué Alejandro Esparza Padilla: <br>
+Video de la placa con leds <br>
+https://drive.google.com/file/d/1VPV0OFFTOTIwppVHI3ZNjK3ap2HeHfrI/view?usp=sharing <br>
+<iframe src="https://drive.google.com/file/d/1VPV0OFFTOTIwppVHI3ZNjK3ap2HeHfrI/preview" width="700" height="400" allow="autoplay"></iframe><br>
+<img src="https://drive.google.com/uc?export=view&id=1VPV0OFFTOTIwppVHI3ZNjK3ap2HeHfrI" width="700"/><br><br><br>
