@@ -12,4 +12,6 @@ Examen 4: <br>
 Examen Final: <br>
 <img src="https://drive.google.com/uc?export=view&id=1u32MUx1lX68lEK6EjdXo8xyQ9iiwi39B" width="700"/><br><br>
 
-
+Diagramas:
+Carpeta en Drive:
+https://drive.google.com/drive/folders/193T6gCY1-Yp95pCcCdtSonkZCH6EFS8C?usp=sharing
