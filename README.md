@@ -2,8 +2,8 @@
 ## 1. Videos de Sensores/Actuadores<br>
 |Sensor/Actuador|Diagrama|Videos-GC|Videos-JE|
 |--|--|--|--|
-|KY-001|<img src="https://drive.google.com/uc?export=view&id=108_9SKL_wNv1eT2xFuTCinYa4ud7_cZT" width="400"/>|<a href="https://drive.google.com/file/d/1NLZPt4yu2H6zuZH8q1SyIFFUFYVTodgC/view?usp=sharing">Sensor de Temperatura</a>|<a href="https://drive.google.com/file/d/1rLpGYl9sUbu1F6X6H6xa5Rejxp0s1vJv/view?usp=sharing">/Sensor de Temperatura/</a>|
-|KY-002|<img src="https://drive.google.com/uc?export=view&id=1Z_8TSYie57ojo_7tIKpDqwKiWGZUOsJC" width="400"/>|<a href="">Sensor de Vibración</a>|<a href="">//</a>|
+|KY-001|<img src="https://drive.google.com/uc?export=view&id=108_9SKL_wNv1eT2xFuTCinYa4ud7_cZT" width="400"/>|<a href="https://drive.google.com/file/d/1NLZPt4yu2H6zuZH8q1SyIFFUFYVTodgC/view?usp=sharing">Sensor de Temperatura</a>|<a href="https://drive.google.com/file/d/1rLpGYl9sUbu1F6X6H6xa5Rejxp0s1vJv/view?usp=sharing">Sensor de Temperatura</a>|
+|KY-002|<img src="https://drive.google.com/uc?export=view&id=1Z_8TSYie57ojo_7tIKpDqwKiWGZUOsJC" width="400"/>|<a href="">Sensor de Vibración</a>|<a href="https://drive.google.com/file/d/1sGSdXWEeLLwKmF3HbhWffxVLLjp1jyaA/view?usp=sharing">Sensor de Vibración</a>|
 |KY-003|<img src="https://drive.google.com/uc?export=view&id=1ZQqErf-ptP8bB8S0VKFOnUlgKrwYwfFq" width="400"/>|<a href="">Sensor de Efecto Hall</a>|<a href="">//</a>|
 |KY-004|<img src="https://drive.google.com/uc?export=view&id=1pVDevVtRobBR7XzKI7TBpXlDWHP_BfSl" width="400"/>|<a href="">Módulo Push Boton</a>|<a href="">//</a>|
 |KY-005|<img src="https://drive.google.com/uc?export=view&id=1K_IrV6xdoOAqL7yA0RZXWsE4uII5Cwce" width="400"/>|<a href="">Sensor Infrarrojo</a>|<a href="">//</a>|
