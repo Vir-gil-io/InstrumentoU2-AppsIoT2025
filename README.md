@@ -3,35 +3,35 @@
 |Sensor/Actuador|Diagrama|Videos-GC|Videos-JE|
 |--|--|--|--|
 |KY-001|<img src="https://drive.google.com/uc?export=view&id=108_9SKL_wNv1eT2xFuTCinYa4ud7_cZT" width="400"/>|<a href="https://drive.google.com/file/d/1NLZPt4yu2H6zuZH8q1SyIFFUFYVTodgC/view?usp=sharing">Sensor de Temperatura</a>|<a href="">//</a>|
-|KY-002|<img src="https://drive.google.com/uc?export=view&id=1Z_8TSYie57ojo_7tIKpDqwKiWGZUOsJC" width="300"/>|<a href="">Sensor de Vibración</a>|<a href="">//</a>|
-|KY-003|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-004|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-005|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-006|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-007|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-008|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-009|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-010|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-011|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-012|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-013|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-014|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-015|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-016|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-017|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-018|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-019|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-020|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-021|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-022|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-023|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-024|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-026|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-027|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-028|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-033|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-037|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-038|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-002|<img src="https://drive.google.com/uc?export=view&id=1Z_8TSYie57ojo_7tIKpDqwKiWGZUOsJC" width="400"/>|<a href="">Sensor de Vibración</a>|<a href="">//</a>|
+|KY-003|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-004|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-005|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-006|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-007|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-008|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-009|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-010|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-011|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-012|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-013|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-014|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-015|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-016|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-017|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-018|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-019|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-020|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-021|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-022|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-023|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-024|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-026|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-027|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-028|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-033|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-037|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-038|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
 |-|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
 |-|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
 |-|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
