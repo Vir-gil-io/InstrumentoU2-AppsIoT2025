@@ -17,8 +17,8 @@
 |KY-016|<img src="https://drive.google.com/uc?export=view&id=1YTDU7AB2I4beYrjHL-gsENmtehtP1pOp" width="400"/>|<a href="">Módulo LedRGB</a>|<a href="">//</a>|
 |KY-017|<img src="https://drive.google.com/uc?export=view&id=10rYR8NQPAQOEsaQkI8PzC-uOhJeggRp5" width="400"/>|<a href="">Módulo Interruptor de Mercurio</a>|<a href="">//</a>|
 |KY-018|<img src="https://drive.google.com/uc?export=view&id=1xFptN-uiNZ0nVbgDR8CZyAE7lARykFCX" width="400"/>|<a href="">Módulo de Fotoresistencia</a>|<a href="">//</a>|
-|KY-019|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-020|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-019|<img src="https://drive.google.com/uc?export=view&id=1WUeguVoY14ZA7ebzKfCld-cq2I5DYBpB" width="400"/>|<a href="">Modulo de un Relevador</a>|<a href="">//</a>|
+|KY-020|<img src="https://drive.google.com/uc?export=view&id=1-UX63Ubp4OJA2u2-qgrpJsmsdylirL9Z" width="400"/>|<a href="">Sensor de Inclinación</a>|<a href="">//</a>|
 |KY-021|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
 |KY-022|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
 |KY-023|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
