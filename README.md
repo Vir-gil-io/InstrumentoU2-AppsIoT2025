@@ -4,7 +4,7 @@
 |--|--|--|--|
 |KY-001|<img src="https://drive.google.com/uc?export=view&id=108_9SKL_wNv1eT2xFuTCinYa4ud7_cZT" width="400"/>|<a href="https://drive.google.com/file/d/1NLZPt4yu2H6zuZH8q1SyIFFUFYVTodgC/view?usp=sharing">Sensor de Temperatura</a>|<a href="">//</a>|
 |KY-002|<img src="https://drive.google.com/uc?export=view&id=1Z_8TSYie57ojo_7tIKpDqwKiWGZUOsJC" width="400"/>|<a href="">Sensor de Vibración</a>|<a href="">//</a>|
-|KY-003|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-003|<img src="https://drive.google.com/uc?export=view&id=1ZQqErf-ptP8bB8S0VKFOnUlgKrwYwfFq" width="400"/>|<a href="">//</a>|<a href="">//</a>|
 |KY-004|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
 |KY-005|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
 |KY-006|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
