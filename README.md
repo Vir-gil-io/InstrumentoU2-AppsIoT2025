@@ -2,7 +2,7 @@
 ## 1. Videos de Sensores/Actuadores<br>
 |Sensor/Actuador|Diagrama|Videos|
 |--|--|--|
-|KY-001_Sensor de Temperatura|<img src="https://drive.google.com/uc?export=view&id=108_9SKL_wNv1eT2xFuTCinYa4ud7_cZT" width="400"/>|<a href="https://drive.google.com/file/d/1NLZPt4yu2H6zuZH8q1SyIFFUFYVTodgC/view?usp=sharing">Gilberto Correa</a>|
+|KY_001-Sensor de Temperatura|<img src="https://drive.google.com/uc?export=view&id=108_9SKL_wNv1eT2xFuTCinYa4ud7_cZT" width="400"/>|<a href="https://drive.google.com/file/d/1NLZPt4yu2H6zuZH8q1SyIFFUFYVTodgC/view?usp=sharing">Gilberto Correa</a>|
 |KY-002|<img src="" width="300"/>|<a href="">//</a>|
 |KY-003|<img src="" width="300"/>|<a href="">//</a>|
 |KY-004|<img src="" width="300"/>|<a href="">//</a>|
