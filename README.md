@@ -9,9 +9,9 @@
 |KY-005|<img src="https://drive.google.com/uc?export=view&id=1K_IrV6xdoOAqL7yA0RZXWsE4uII5Cwce" width="400"/>|<a href="">Sensor Infrarrojo</a>|<a href="">//</a>|
 |KY-006|<img src="https://drive.google.com/uc?export=view&id=1kflc0hciLXQccRf_BKmxv8tEzT1WqOyu" width="400"/>|<a href="">Módulo Buzzer Pasivo</a>|<a href="">//</a>|
 |KY-008|<img src="https://drive.google.com/uc?export=view&id=1bR0xdzJ9jbAbH151T7Ryg_izhWgTU-26" width="400"/>|<a href="">Módulo Led Láser</a>|<a href="">//</a>|
-|KY-010|<img src="https://drive.google.com/uc?export=view&id=1BDgf9xf4-zyn2gR_4QwM8zSDeGVqejAv" width="400"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-011|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-012|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-010|<img src="https://drive.google.com/uc?export=view&id=1BDgf9xf4-zyn2gR_4QwM8zSDeGVqejAv" width="400"/>|<a href="">Módulo Foto Interruptor</a>|<a href="">//</a>|
+|KY-011|<img src="https://drive.google.com/uc?export=view&id=1dld3ig5bumrWTTZzzvDAxxQql7f4QdP8" width="400"/>|<a href="">Módulo Led 2 Colores 5mm</a>|<a href="">//</a>|
+|KY-012|<img src="https://drive.google.com/uc?export=view&id=1qCkuwS8GyrI5lbYj97f6x8DsDldt-KOI" width="400"/>|<a href="">Módulo Buzzer Activo</a>|<a href="">//</a>|
 |KY-013|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
 |KY-014|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
 |KY-015|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
