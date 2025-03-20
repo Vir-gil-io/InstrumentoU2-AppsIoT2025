@@ -21,7 +21,7 @@
 |KY-020|<img src="https://drive.google.com/uc?export=view&id=1-UX63Ubp4OJA2u2-qgrpJsmsdylirL9Z" width="400"/>|<a href="">Sensor de Inclinación</a>|<a href="">//</a>|
 |KY-021|<img src="https://drive.google.com/uc?export=view&id=1GM81kYbArv3QdP00ZKxo8V4Gmxfv9tZ9" width="400"/>|<a href="">Módulo Mini Interruptor Magnético</a>|<a href="">//</a>|
 |KY-022|<img src="https://drive.google.com/uc?export=view&id=1O_MVb8PNKkToDZmv2-eBfkL-87Vb7Dv5" width="400"/>|<a href="">Módulo Led Infrarrojo Receptor</a>|<a href="">//</a>|
-|KY-023|<img src="https://drive.google.com/uc?export=view&id=19sesj95BWpGiuYac3nZjUg4pyuXMdJ_d" width="400"/>|<a href="">Módulo JoyStick</a>|<a href="">//</a>|
+|KY-023|<img src="https://drive.google.com/uc?export=view&id=1CN2AWD_laT26pNdVeJIjHWO7Dt6fiNv_" width="400"/>|<a href="">Módulo JoyStick</a>|<a href="">//</a>|
 |KY-024|<img src="" width="400"/>|<a href="">Sensor de Campo Magnético</a>|<a href="">//</a>|
 |KY-026|<img src="" width="400"/>|<a href="">Sensor de Flama</a>|<a href="">//</a>|
 |KY-027|<img src="" width="400"/>|<a href="">Módulo Luminoso de Inclinación</a>|<a href="">//</a>|
