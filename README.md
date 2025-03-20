@@ -51,7 +51,7 @@ https://drive.google.com/file/d/1VPV0OFFTOTIwppVHI3ZNjK3ap2HeHfrI/view?usp=shari
 |Estudiante|Resultado|
 |--|--|
 |Gilberto Correa|<img src="https://drive.google.com/uc?export=view&id=14iz4LvYfiBLv1fakd-w-h_riDQDl-0Tw" width="800"/>|
-|Josué Esparza|<img src="https://drive.google.com/uc?export=view&id=1txp8OaHzxXWnUELLYljrNN92G9Bqh_w0" width="700"/>|
+|Josué Esparza|<img src="https://drive.google.com/uc?export=view&id=1txp8OaHzxXWnUELLYljrNN92G9Bqh_w0" width="800"/>|
 
 ## 4. NetAcad<br>
 ### Gilberto Fabián Correa González:<br>
