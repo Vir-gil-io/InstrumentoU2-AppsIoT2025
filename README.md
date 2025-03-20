@@ -26,9 +26,9 @@
 |KY-026|<img src="https://drive.google.com/uc?export=view&id=1Z6x0JwdF_TSQEiC_fj4ZccTx8qmAwola" width="400"/>|<a href="">Sensor de Flama</a>|<a href="">//</a>|
 |KY-027|<img src="https://drive.google.com/uc?export=view&id=19b80eFAl6HROVo72tm_sfVML7imhLXZv" width="400"/>|<a href="">Módulo Luminoso de Inclinación</a>|<a href="">//</a>|
 |KY-028|<img src="https://drive.google.com/uc?export=view&id=1vJNhuJoCVq1zLvuzffttGPkHRj7VODFW" width="400"/>|<a href="">Sensor de Temperatura Digital</a>|<a href="">//</a>|
-|KY-033|<img src="" width="400"/>|<a href="">Sensor de Línea</a>|<a href="">//</a>|
-|KY-037|<img src="" width="400"/>|<a href="">Módulo Micrófono Sensible</a>|<a href="">//</a>|
-|KY-038|<img src="" width="400"/>|<a href="">Sensor de Sonido con Micrófono</a>|<a href="">//</a>|
+|KY-033|<img src="https://drive.google.com/uc?export=view&id=1MwjzNX_msniHq3BobesPwZKOnv0F2QdC" width="400"/>|<a href="">Sensor de Línea</a>|<a href="">//</a>|
+|KY-037|<img src="https://drive.google.com/uc?export=view&id=1Gmb2x9_J41vMHGr6P7lnfUH9KeyU4I7Q" width="400"/>|<a href="">Módulo Micrófono Sensible</a>|<a href="">//</a>|
+|KY-038|<img src="https://drive.google.com/uc?export=view&id=1RJgDevL5dnASrmI8EjeUvjf9Wk6aJFUN" width="400"/>|<a href="">Sensor de Sonido con Micrófono</a>|<a href="">//</a>|
 |-|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
 |-|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
 |-|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
