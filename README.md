@@ -31,7 +31,7 @@
 |KY-038|<img src="https://drive.google.com/uc?export=view&id=1RJgDevL5dnASrmI8EjeUvjf9Wk6aJFUN" width="400"/>|<a href="">Sensor de Sonido con Micrófono</a>|<a href="">//</a>|
 |MQ-2|<img src="" width="300"/>|<a href="">Gas Combustible</a>|<a href="">//</a>|
 |MQ-4|<img src="" width="300"/>|<a href="">Metano</a>|<a href="">//</a>|
-|MQ-5|<img src="" width="300"/>|<a href="">Gas Natural</a>|<a href="">//</a>|
+|MQ-5|<img src="https://drive.google.com/uc?export=view&id=1RUzn82pi3Pygr5XxD7VQAkiS6_vakgAo" width="300"/>|<a href="">Gas Natural</a>|<a href="">//</a>|
 |MQ-6|<img src="" width="300"/>|<a href="">LPG</a>|<a href="">//</a>|
 |MQ-9|<img src="" width="300"/>|<a href="">Monóxido de carbono y gases inflamables</a>|<a href="">//</a>|
 |MQ-135|<img src="" width="300"/>|<a href="">Gases Tóxicos</a>|<a href="">//</a>|
