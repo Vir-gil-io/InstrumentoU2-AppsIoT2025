@@ -14,8 +14,8 @@
 |KY-012|<img src="https://drive.google.com/uc?export=view&id=1qCkuwS8GyrI5lbYj97f6x8DsDldt-KOI" width="400"/>|<a href="">Módulo Buzzer Activo</a>|<a href="">//</a>|
 |KY-013|<img src="https://drive.google.com/uc?export=view&id=1AQIsM2s2-pi_sHE52mqO8M_67AgKQxOt" width="400"/>|<a href="">Sensor de Temperatura Análoga</a>|<a href="">//</a>|
 |KY-015|<img src="https://drive.google.com/uc?export=view&id=14Dk91BUMm3O2C1wtZJ54cRYbsiUMTI3g" width="400"/>|<a href="">Sensor de Temperatura y Humedad</a>|<a href="">//</a>|
-|KY-016|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-017|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-016|<img src="https://drive.google.com/uc?export=view&id=1YTDU7AB2I4beYrjHL-gsENmtehtP1pOp" width="400"/>|<a href="">Módulo LedRGB</a>|<a href="">//</a>|
+|KY-017|<img src="https://drive.google.com/uc?export=view&id=10rYR8NQPAQOEsaQkI8PzC-uOhJeggRp5" width="400"/>|<a href="">Módulo Interruptor de Mercurio</a>|<a href="">//</a>|
 |KY-018|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
 |KY-019|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
 |KY-020|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
