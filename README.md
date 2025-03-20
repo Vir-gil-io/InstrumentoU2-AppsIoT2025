@@ -47,7 +47,7 @@ Josué Alejandro Esparza Padilla: <br>
 Video de la placa con leds <br>
 https://drive.google.com/file/d/1VPV0OFFTOTIwppVHI3ZNjK3ap2HeHfrI/view?usp=sharing <br>
 
-## 3. Quizziz
+## 3. Quizizz
 |Estudiante|Resultado|
 |--|--|
 |Gilberto Correa|<img src="https://drive.google.com/uc?export=view&id=14iz4LvYfiBLv1fakd-w-h_riDQDl-0Tw" width="800"/>|
