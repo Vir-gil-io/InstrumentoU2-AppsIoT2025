@@ -9,8 +9,7 @@
 |KY-005|<img src="https://drive.google.com/uc?export=view&id=1K_IrV6xdoOAqL7yA0RZXWsE4uII5Cwce" width="400"/>|<a href="">Sensor Infrarrojo</a>|<a href="">//</a>|
 |KY-006|<img src="https://drive.google.com/uc?export=view&id=1kflc0hciLXQccRf_BKmxv8tEzT1WqOyu" width="400"/>|<a href="">Módulo Buzzer Pasivo</a>|<a href="">//</a>|
 |KY-008|<img src="https://drive.google.com/uc?export=view&id=1bR0xdzJ9jbAbH151T7Ryg_izhWgTU-26" width="400"/>|<a href="">Módulo Led Láser</a>|<a href="">//</a>|
-|KY-009|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-010|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-010|<img src="https://drive.google.com/uc?export=view&id=1BDgf9xf4-zyn2gR_4QwM8zSDeGVqejAv" width="400"/>|<a href="">//</a>|<a href="">//</a>|
 |KY-011|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
 |KY-012|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
 |KY-013|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
