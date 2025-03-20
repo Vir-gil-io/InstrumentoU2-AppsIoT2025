@@ -29,12 +29,12 @@
 |KY-033|<img src="https://drive.google.com/uc?export=view&id=1MwjzNX_msniHq3BobesPwZKOnv0F2QdC" width="400"/>|<a href="">Sensor de Línea</a>|<a href="">//</a>|
 |KY-037|<img src="https://drive.google.com/uc?export=view&id=1Gmb2x9_J41vMHGr6P7lnfUH9KeyU4I7Q" width="400"/>|<a href="">Módulo Micrófono Sensible</a>|<a href="">//</a>|
 |KY-038|<img src="https://drive.google.com/uc?export=view&id=1RJgDevL5dnASrmI8EjeUvjf9Wk6aJFUN" width="400"/>|<a href="">Sensor de Sonido con Micrófono</a>|<a href="">//</a>|
-|-|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|-|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|-|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|-|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|-|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
-|-|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
+|MQ-2|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
+|MQ-4|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
+|MQ-5|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
+|MQ-6|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
+|MQ-9|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
+|MQ-135|<img src="" width="300"/>|<a href="">//</a>|<a href="">//</a>|
 
 
 ## 2. Ejercicio de Soldadura
