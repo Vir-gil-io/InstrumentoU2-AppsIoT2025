@@ -22,7 +22,10 @@ Video de la placa con leds <br>
 https://drive.google.com/file/d/1VPV0OFFTOTIwppVHI3ZNjK3ap2HeHfrI/view?usp=sharing <br>
 
 ## 3. Quizziz
-
+|Estudiante|Resultado|
+|--|--|
+|Gilberto Correa|<img src="https://drive.google.com/uc?export=view&id=14iz4LvYfiBLv1fakd-w-h_riDQDl-0Tw" width="700"/>|
+|Josué Esparza|<img src="" width="700"/>|
 
 ## 4. NetAcad<br>
 ### Gilberto Fabián Correa González:<br>
