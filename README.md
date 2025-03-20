@@ -22,10 +22,10 @@
 |KY-021|<img src="https://drive.google.com/uc?export=view&id=1GM81kYbArv3QdP00ZKxo8V4Gmxfv9tZ9" width="400"/>|<a href="">Módulo Mini Interruptor Magnético</a>|<a href="">//</a>|
 |KY-022|<img src="https://drive.google.com/uc?export=view&id=1O_MVb8PNKkToDZmv2-eBfkL-87Vb7Dv5" width="400"/>|<a href="">Módulo Led Infrarrojo Receptor</a>|<a href="">//</a>|
 |KY-023|<img src="https://drive.google.com/uc?export=view&id=1CN2AWD_laT26pNdVeJIjHWO7Dt6fiNv_" width="400"/>|<a href="">Módulo JoyStick</a>|<a href="">//</a>|
-|KY-024|<img src="" width="400"/>|<a href="">Sensor de Campo Magnético</a>|<a href="">//</a>|
-|KY-026|<img src="" width="400"/>|<a href="">Sensor de Flama</a>|<a href="">//</a>|
-|KY-027|<img src="" width="400"/>|<a href="">Módulo Luminoso de Inclinación</a>|<a href="">//</a>|
-|KY-028|<img src="" width="400"/>|<a href="">Sensor de Temperatura Digital</a>|<a href="">//</a>|
+|KY-024|<img src="https://drive.google.com/uc?export=view&id=1ysMYm_i5M8UlOsS3bqZhpzo0-37DAdxa" width="400"/>|<a href="">Sensor de Campo Magnético</a>|<a href="">//</a>|
+|KY-026|<img src="https://drive.google.com/uc?export=view&id=1Z6x0JwdF_TSQEiC_fj4ZccTx8qmAwola" width="400"/>|<a href="">Sensor de Flama</a>|<a href="">//</a>|
+|KY-027|<img src="https://drive.google.com/uc?export=view&id=19b80eFAl6HROVo72tm_sfVML7imhLXZv" width="400"/>|<a href="">Módulo Luminoso de Inclinación</a>|<a href="">//</a>|
+|KY-028|<img src="https://drive.google.com/uc?export=view&id=1vJNhuJoCVq1zLvuzffttGPkHRj7VODFW" width="400"/>|<a href="">Sensor de Temperatura Digital</a>|<a href="">//</a>|
 |KY-033|<img src="" width="400"/>|<a href="">Sensor de Línea</a>|<a href="">//</a>|
 |KY-037|<img src="" width="400"/>|<a href="">Módulo Micrófono Sensible</a>|<a href="">//</a>|
 |KY-038|<img src="" width="400"/>|<a href="">Sensor de Sonido con Micrófono</a>|<a href="">//</a>|
