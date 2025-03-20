@@ -12,9 +12,8 @@
 |KY-010|<img src="https://drive.google.com/uc?export=view&id=1BDgf9xf4-zyn2gR_4QwM8zSDeGVqejAv" width="400"/>|<a href="">Módulo Foto Interruptor</a>|<a href="">//</a>|
 |KY-011|<img src="https://drive.google.com/uc?export=view&id=1dld3ig5bumrWTTZzzvDAxxQql7f4QdP8" width="400"/>|<a href="">Módulo Led 2 Colores 5mm</a>|<a href="">//</a>|
 |KY-012|<img src="https://drive.google.com/uc?export=view&id=1qCkuwS8GyrI5lbYj97f6x8DsDldt-KOI" width="400"/>|<a href="">Módulo Buzzer Activo</a>|<a href="">//</a>|
-|KY-013|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-014|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
-|KY-015|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
+|KY-013|<img src="https://drive.google.com/uc?export=view&id=1AQIsM2s2-pi_sHE52mqO8M_67AgKQxOt" width="400"/>|<a href="">Sensor de Temperatura Análoga</a>|<a href="">//</a>|
+|KY-015|<img src="https://drive.google.com/uc?export=view&id=14Dk91BUMm3O2C1wtZJ54cRYbsiUMTI3g" width="400"/>|<a href="">Sensor de Temperatura y Humedad</a>|<a href="">//</a>|
 |KY-016|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
 |KY-017|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
 |KY-018|<img src="" width="400"/>|<a href="">//</a>|<a href="">//</a>|
