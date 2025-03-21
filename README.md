@@ -20,21 +20,21 @@
 |KY-019|<img src="https://drive.google.com/uc?export=view&id=1WUeguVoY14ZA7ebzKfCld-cq2I5DYBpB" width="400"/>|<a href="">Modulo de un Relevador</a>|<a href="https://drive.google.com/file/d/1Y4Y2bWdqM7kehnWnZmjAoY9ltb3zIDvA/view?usp=sharing">Módulo de un Relevador</a>|
 |KY-020|<img src="https://drive.google.com/uc?export=view&id=1-UX63Ubp4OJA2u2-qgrpJsmsdylirL9Z" width="400"/>|<a href="">Sensor de Inclinación</a>|<a href="https://drive.google.com/file/d/1zX9B3PnLVRS8r_Pi09RLt4sioYia9WgF/view?usp=sharing">Sensor de Inclinación</a>|
 |KY-021|<img src="https://drive.google.com/uc?export=view&id=1GM81kYbArv3QdP00ZKxo8V4Gmxfv9tZ9" width="400"/>|<a href="">Módulo Mini Interruptor Magnético</a>|<a href="https://drive.google.com/file/d/13770MrMONC_aOOsuQh4DBBYTNpQydw28/view?usp=sharing">Módulo Mini Interruptor Magnético</a>|
-|KY-022|<img src="https://drive.google.com/uc?export=view&id=1O_MVb8PNKkToDZmv2-eBfkL-87Vb7Dv5" width="400"/>|<a href="">Módulo Led Infrarrojo Receptor</a>|<a href="">//</a>|
-|KY-023|<img src="https://drive.google.com/uc?export=view&id=1CN2AWD_laT26pNdVeJIjHWO7Dt6fiNv_" width="400"/>|<a href="">Módulo JoyStick</a>|<a href="">//</a>|
-|KY-024|<img src="https://drive.google.com/uc?export=view&id=1ysMYm_i5M8UlOsS3bqZhpzo0-37DAdxa" width="400"/>|<a href="">Sensor de Campo Magnético</a>|<a href="">//</a>|
-|KY-026|<img src="https://drive.google.com/uc?export=view&id=1Z6x0JwdF_TSQEiC_fj4ZccTx8qmAwola" width="400"/>|<a href="">Sensor de Flama</a>|<a href="">//</a>|
-|KY-027|<img src="https://drive.google.com/uc?export=view&id=19b80eFAl6HROVo72tm_sfVML7imhLXZv" width="400"/>|<a href="">Módulo Luminoso de Inclinación</a>|<a href="">//</a>|
-|KY-028|<img src="https://drive.google.com/uc?export=view&id=1vJNhuJoCVq1zLvuzffttGPkHRj7VODFW" width="400"/>|<a href="">Sensor de Temperatura Digital</a>|<a href="">//</a>|
-|KY-033|<img src="https://drive.google.com/uc?export=view&id=1MwjzNX_msniHq3BobesPwZKOnv0F2QdC" width="400"/>|<a href="">Sensor de Línea</a>|<a href="">//</a>|
-|KY-037|<img src="https://drive.google.com/uc?export=view&id=1Gmb2x9_J41vMHGr6P7lnfUH9KeyU4I7Q" width="400"/>|<a href="">Módulo Micrófono Sensible</a>|<a href="">//</a>|
-|KY-038|<img src="https://drive.google.com/uc?export=view&id=1RJgDevL5dnASrmI8EjeUvjf9Wk6aJFUN" width="400"/>|<a href="">Sensor de Sonido con Micrófono</a>|<a href="">//</a>|
-|MQ-2|<img src="" width="400"/>|<a href="">Gas Combustible</a>|<a href="">//</a>|
-|MQ-4|<img src="" width="400"/>|<a href="">Metano</a>|<a href="">//</a>|
-|MQ-5|<img src="https://drive.google.com/uc?export=view&id=1RUzn82pi3Pygr5XxD7VQAkiS6_vakgAo" width="400"/>|<a href="">Gas Natural</a>|<a href="">//</a>|
-|MQ-6|<img src="" width="400"/>|<a href="">LPG</a>|<a href="">//</a>|
-|MQ-9|<img src="" width="400"/>|<a href="">Monóxido de carbono y gases inflamables</a>|<a href="">//</a>|
-|MQ-135|<img src="" width="400"/>|<a href="">Gases Tóxicos</a>|<a href="">//</a>|
+|KY-022|<img src="https://drive.google.com/uc?export=view&id=1O_MVb8PNKkToDZmv2-eBfkL-87Vb7Dv5" width="400"/>|<a href="">Módulo Led Infrarrojo Receptor</a>|<a href="https://drive.google.com/file/d/1vV1ID8L45Gsqx84DT9o7dPFzPhQ3HYAx/view?usp=sharing">Módulo Led Infrarrojo Receptor</a>|
+|KY-023|<img src="https://drive.google.com/uc?export=view&id=1CN2AWD_laT26pNdVeJIjHWO7Dt6fiNv_" width="400"/>|<a href="">Módulo JoyStick</a>|<a href="https://drive.google.com/file/d/1wzzdzA8R5Qlhf9B-ViZwP1KdoNipW23F/view?usp=sharing">Módulo JoyStick</a>|
+|KY-024|<img src="https://drive.google.com/uc?export=view&id=1ysMYm_i5M8UlOsS3bqZhpzo0-37DAdxa" width="400"/>|<a href="">Sensor de Campo Magnético</a>|<a href="https://drive.google.com/file/d/1KjjX4ru2Dt9KT8wy-5IQ9jjlnnCLYRSz/view?usp=sharing">Sensor de Campo Magnético</a>|
+|KY-026|<img src="https://drive.google.com/uc?export=view&id=1Z6x0JwdF_TSQEiC_fj4ZccTx8qmAwola" width="400"/>|<a href="">Sensor de Flama</a>|<a href="https://drive.google.com/file/d/1lxDKdsOfJKPjScjmvVkN0-X6xQ0ax47b/view?usp=sharing">Sensor de Flama</a>|
+|KY-027|<img src="https://drive.google.com/uc?export=view&id=19b80eFAl6HROVo72tm_sfVML7imhLXZv" width="400"/>|<a href="">Módulo Luminoso de Inclinación</a>|<a href="https://drive.google.com/file/d/1GoXplvdtEQoVVyE4uHAfihBllT_RhCUV/view?usp=sharing">Módulo Luminoso de Inclinación</a>|
+|KY-028|<img src="https://drive.google.com/uc?export=view&id=1vJNhuJoCVq1zLvuzffttGPkHRj7VODFW" width="400"/>|<a href="">Sensor de Temperatura Digital</a>|<a href="https://drive.google.com/file/d/1M8lNb8mSqzGlZBsNan7mHYZsdO9cIKNk/view?usp=sharing">Sensor de Temperatura Digital</a>|
+|KY-033|<img src="https://drive.google.com/uc?export=view&id=1MwjzNX_msniHq3BobesPwZKOnv0F2QdC" width="400"/>|<a href="">Sensor de Línea</a>|<a href="https://drive.google.com/file/d/11k_Am9RX9XVAL1fpLpyOg6h7a2c7o2T5/view?usp=sharing">Sensor de Línea</a>|
+|KY-037|<img src="https://drive.google.com/uc?export=view&id=1Gmb2x9_J41vMHGr6P7lnfUH9KeyU4I7Q" width="400"/>|<a href="">Módulo Micrófono Sensible</a>|<a href="https://drive.google.com/file/d/1977uu6xr8dlQEmoo-XD0HrgvqEfQgK8i/view?usp=sharing">Módulo Micrófono Sensible</a>|
+|KY-038|<img src="https://drive.google.com/uc?export=view&id=1RJgDevL5dnASrmI8EjeUvjf9Wk6aJFUN" width="400"/>|<a href="">Sensor de Sonido con Micrófono</a>|<a href="https://drive.google.com/file/d/1lCusQMhH47G_C8ALALo56ipaSe2HcyyP/view?usp=sharing">Sensor de Sonido con Micrófono</a>|
+|MQ-2|<img src="" width="400"/>|<a href="">Gas Combustible</a>|<a href="https://drive.google.com/file/d/1pOyv9cngfP9Z_hJyZtPA2-pa4gmw_e8W/view?usp=sharing">Gas Combustible</a>|
+|MQ-4|<img src="" width="400"/>|<a href="">Metano</a>|<a href="https://drive.google.com/file/d/1Ma7FnAL2s_HkFsR9rKiqYABoZPTIN0O-/view?usp=sharing">Metano</a>|
+|MQ-5|<img src="https://drive.google.com/uc?export=view&id=1RUzn82pi3Pygr5XxD7VQAkiS6_vakgAo" width="400"/>|<a href="">Gas Natural</a>|<a href="https://drive.google.com/file/d/1QDDaXELnMWZIhuZMkP_CrZUu3Yx85t_G/view?usp=sharing">Gas Natural</a>|
+|MQ-6|<img src="" width="400"/>|<a href="">LPG</a>|<a href="https://drive.google.com/file/d/170CjvbTUufePpIO_8ub7FxmM6fDqzsVO/view?usp=sharing">LPG</a>|
+|MQ-9|<img src="" width="400"/>|<a href="">Monóxido de carbono y gases inflamables</a>|<a href="https://drive.google.com/file/d/1OO9KmqCW1L5OSFE6AHKRAquuL-1ZGhED/view?usp=sharing">Monóxido de carbono y gases inflamables</a>|
+|MQ-135|<img src="" width="400"/>|<a href="">Gases Tóxicos</a>|<a href="https://drive.google.com/file/d/1bEFDKo8QeOZunP5pmSwcOw7Gx0JW8xuA/view?usp=sharing">Gases Tóxicos</a>|
 
 
 ## 2. Ejercicio de Soldadura
