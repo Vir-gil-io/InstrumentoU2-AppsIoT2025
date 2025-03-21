@@ -35,6 +35,7 @@
 |MQ-6|<img src="https://drive.google.com/uc?export=view&id=1zJfhpt_QPPEROrNDAuXfBU175VIoqk35" width="400"/>|<a href="">LPG</a>|<a href="https://drive.google.com/file/d/170CjvbTUufePpIO_8ub7FxmM6fDqzsVO/view?usp=sharing">LPG</a>|
 |MQ-9|<img src="https://drive.google.com/uc?export=view&id=1UtwkzAArY9RrMfHvmKC_V2lsIF-JUm1U" width="400"/>|<a href="">Monóxido de carbono y gases inflamables</a>|<a href="https://drive.google.com/file/d/1OO9KmqCW1L5OSFE6AHKRAquuL-1ZGhED/view?usp=sharing">Monóxido de carbono y gases inflamables</a>|
 |MQ-135|<img src="https://drive.google.com/uc?export=view&id=1nvkVD6dL08njGOJipQMwEDL8LmkfLaIB" width="400"/>|<a href="">Gases Tóxicos</a>|<a href="https://drive.google.com/file/d/1bEFDKo8QeOZunP5pmSwcOw7Gx0JW8xuA/view?usp=sharing">Gases Tóxicos</a>|
+|HCSR-04|<img src="https://drive.google.com/uc?export=view&id=1Mf5BsWm8x8OWweUO3MGWMoAC5EcN5kf2" width="400"/>|<a href="">Distancia</a>|<a href="">Distancia</a>|
 
 
 ## 2. Ejercicio de Soldadura
