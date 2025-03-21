@@ -46,8 +46,8 @@
 ## 3. Quizizz
 |Estudiante|Resultado|
 |--|--|
-|Gilberto Correa|<img src="https://drive.google.com/uc?export=view&id=14iz4LvYfiBLv1fakd-w-h_riDQDl-0Tw" width="800"/>|
-|Josué Esparza|<img src="https://drive.google.com/uc?export=view&id=1txp8OaHzxXWnUELLYljrNN92G9Bqh_w0" width="800"/>|
+|Gilberto Correa|<img src="https://drive.google.com/uc?export=view&id=14iz4LvYfiBLv1fakd-w-h_riDQDl-0Tw" width="600"/>|
+|Josué Esparza|<img src="https://drive.google.com/uc?export=view&id=1txp8OaHzxXWnUELLYljrNN92G9Bqh_w0" width="600"/>|
 
 ## 4. NetAcad<br>
 ### Gilberto Fabián Correa González:<br>
