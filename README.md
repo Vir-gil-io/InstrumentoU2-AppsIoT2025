@@ -38,9 +38,9 @@
 
 
 ## 2. Ejercicio de Soldadura
-Josué Alejandro Esparza Padilla: <br>
-Video de la placa con leds <br>
-https://drive.google.com/file/d/1VPV0OFFTOTIwppVHI3ZNjK3ap2HeHfrI/view?usp=sharing <br>
+|Estudiante|Placa|Video|
+|Gilberto Correa|<img src="" width="600"/>|<a href="">Trifuerza Zelda</a>|
+|Josué Esparza|<img src="" width="600"/>|<a href="https://drive.google.com/file/d/1VPV0OFFTOTIwppVHI3ZNjK3ap2HeHfrI/view?usp=sharing">Leds</a>|
 
 ## 3. Quizizz
 |Estudiante|Resultado|
