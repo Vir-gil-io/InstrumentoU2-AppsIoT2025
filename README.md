@@ -33,7 +33,7 @@
 |MQ-4|<img src="https://drive.google.com/uc?export=view&id=1R0btbEZWFuyQ3yFr9VYodHDs6OastiP7" width="400"/>|<a href="">Metano</a>|<a href="https://drive.google.com/file/d/1Ma7FnAL2s_HkFsR9rKiqYABoZPTIN0O-/view?usp=sharing">Metano</a>|
 |MQ-5|<img src="https://drive.google.com/uc?export=view&id=1RUzn82pi3Pygr5XxD7VQAkiS6_vakgAo" width="400"/>|<a href="">Gas Natural</a>|<a href="https://drive.google.com/file/d/1QDDaXELnMWZIhuZMkP_CrZUu3Yx85t_G/view?usp=sharing">Gas Natural</a>|
 |MQ-6|<img src="https://drive.google.com/uc?export=view&id=1zJfhpt_QPPEROrNDAuXfBU175VIoqk35" width="400"/>|<a href="">LPG</a>|<a href="https://drive.google.com/file/d/170CjvbTUufePpIO_8ub7FxmM6fDqzsVO/view?usp=sharing">LPG</a>|
-|MQ-9|<img src="" width="400"/>|<a href="">Monóxido de carbono y gases inflamables</a>|<a href="https://drive.google.com/file/d/1OO9KmqCW1L5OSFE6AHKRAquuL-1ZGhED/view?usp=sharing">Monóxido de carbono y gases inflamables</a>|
+|MQ-9|<img src="https://drive.google.com/uc?export=view&id=1UtwkzAArY9RrMfHvmKC_V2lsIF-JUm1U" width="400"/>|<a href="">Monóxido de carbono y gases inflamables</a>|<a href="https://drive.google.com/file/d/1OO9KmqCW1L5OSFE6AHKRAquuL-1ZGhED/view?usp=sharing">Monóxido de carbono y gases inflamables</a>|
 |MQ-135|<img src="" width="400"/>|<a href="">Gases Tóxicos</a>|<a href="https://drive.google.com/file/d/1bEFDKo8QeOZunP5pmSwcOw7Gx0JW8xuA/view?usp=sharing">Gases Tóxicos</a>|
 
 
