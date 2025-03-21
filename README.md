@@ -41,8 +41,7 @@
 |Estudiante|Placa|Video|
 |--|--|--|
 |Gilberto Correa|<img src="" width="600"/>|<a href="">Trifuerza Zelda</a>|
-|Josué Esparza|<img src="![image](https://github.com/user-attachments/assets/e4536697-4944-4a22-aa38-9889006a7ff6)
-" width="600"/>|<a href="https://drive.google.com/file/d/1VPV0OFFTOTIwppVHI3ZNjK3ap2HeHfrI/view?usp=sharing">Línea de Leds</a>|
+|Josué Esparza|<![image](https://github.com/user-attachments/assets/e4536697-4944-4a22-aa38-9889006a7ff6) width="600"/>|<a href="https://drive.google.com/file/d/1VPV0OFFTOTIwppVHI3ZNjK3ap2HeHfrI/view?usp=sharing">Línea de Leds</a>|
 
 ## 3. Quizizz
 |Estudiante|Resultado|
