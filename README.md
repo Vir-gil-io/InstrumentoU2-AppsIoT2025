@@ -1,4 +1,9 @@
 # InstrumentoU2-AppsIoT2025
+
+## Descripción
+Este repositorio contiene la documentación y el código de los ejercicios desarrollados, estan subidas las carpetas en este repositorio y la calificacion de los examenes de *NetAcad JavaScript Essentials 2, aplicando tecnologías IoT como **Raspberry Pi, **Node-RED, **PostgreSQL, y *Mosquitto MQTT.
+
+
 ## 1. Videos de Sensores/Actuadores<br>
 |Sensor/Actuador|Diagrama|Videos-GC|Videos-JE|
 |--|--|--|--|
