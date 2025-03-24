@@ -41,7 +41,7 @@
 ## 2. Ejercicio de Soldadura
 |Estudiante|Placa|Video|
 |--|--|--|
-|Gilberto Correa|<img src="" width="600"/>|<a href="">Trifuerza Zelda</a>|
+|Gilberto Correa|<img src="https://drive.google.com/uc?export=view&id=1saVZnNBLDRPhF5XEtDx9bmmDjnd26zhM" width="600"/>|<a href="https://drive.google.com/file/d/16mSHKZN3M9N1kDXGEuZE54kQZfgrQp6B/view?usp=sharing">Trifuerza Zelda</a>|
 |Josué Esparza|<img src="https://drive.google.com/uc?export=view&id=1T1_ZkWY-i4vAvYsGdeFt-j3d6oaT8Av5" width="600"/>|<a href="https://drive.google.com/file/d/1VPV0OFFTOTIwppVHI3ZNjK3ap2HeHfrI/view?usp=sharing">Línea de Leds</a>|
 
 ## 3. Quizizz
